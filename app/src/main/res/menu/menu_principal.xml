@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/sincronizar" android:title="@string/sincronizar"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/canciones"
+        android:title="@string/canciones"
+        android:icon="@drawable/ic_action3"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/disco"
+        android:title="@string/disco"
+        android:icon="@drawable/ic_action"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/interprete"
+        android:title="@string/interprete"
+        android:icon="@drawable/ic_action2"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+</menu>

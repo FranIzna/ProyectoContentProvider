@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProyectoContentProvider</string>
+    <string name="sincronizar">Sincronizar</string>
+
+    <string name="todo">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artistas">Artists</string>
+    <string name="title_activity_editar">Editar</string>
+    <string name="importante">Importante</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">Confirmar</string>
+
+    <string name="err">¿Seguro que quieres sincronizar?</string>
+    <string name="canciones">Canciones</string>
+    <string name="nombre">Nombre</string>
+    <string name="disco">Disco</string>
+    <string name="interprete">Interprete</string>
+</resources>
